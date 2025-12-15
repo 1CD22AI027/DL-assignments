@@ -21,15 +21,14 @@
 
 ## 📋 Table of Contents
 
-1.  [AlexNet.py](https://www.google.com/search?q=%231-alexnetpy)
-2.  [Classification.ipynb](https://www.google.com/search?q=%232-classificationipynb)
-3.  [DeepReinforcementLearning.py](https://www.google.com/search?q=%233-deepreinforcementlearningpy)
-4.  [LSTM.py](https://www.google.com/search?q=%234-lstmpy)
-5.  [Rnn.py](https://www.google.com/search?q=%235-rnnpy)
-6.  [TicTacToe.py](https://www.google.com/search?q=%236-tictactoepy)
-7.  [Installation & Requirements](https://www.google.com/search?q=%23installation--requirements)
-8.  [README.md](https://www.google.com/search?q=%23running-the-scripts)
-
+1.  AlexNet.py
+2.  Classification.ipynb
+3.  DeepReinforcementLearning.py
+4.  LSTM.py
+5.  Rnn.py
+6.  TicTacToe.py
+7.  Installation & Requirements
+8.  README.md
 -----
 
 ## 1\. AlexNet.py
