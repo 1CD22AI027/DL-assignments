@@ -28,7 +28,7 @@
 5.  [Rnn.py](https://www.google.com/search?q=%235-rnnpy)
 6.  [TicTacToe.py](https://www.google.com/search?q=%236-tictactoepy)
 7.  [Installation & Requirements](https://www.google.com/search?q=%23installation--requirements)
-8.  [Running the Scripts](https://www.google.com/search?q=%23running-the-scripts)
+8.  [README.md](https://www.google.com/search?q=%23running-the-scripts)
 
 -----
 
